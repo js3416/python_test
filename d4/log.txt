@@ -1,0 +1,3 @@
+humidity = 70, temp = 25 
+humidity = 70, temp = 25 
+humidity = 70, temp = 25 
